@@ -19,6 +19,12 @@
         "name": "John Doe",
         "email": "john-doe@gmail.com",
         "password": "12345-secret"
+    },
+    {
+        "id": 1,
+        "name": "Johnathan Blow",
+        "email": "jb@gmail.com",
+        "password": "123123!"
     }
   ]
 }
