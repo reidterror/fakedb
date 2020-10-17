@@ -13,10 +13,12 @@
       "title": "Pasta"
     }
   ],
-  "profile": {
-    "id": 2,
-    "name": "John Doe",
-    "email": "john-doe@gmail.com",
-    "password": "12345-secret"
-  }
+  "users": [
+      {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john-doe@gmail.com",
+        "password": "12345-secret"
+    }
+  ]
 }
